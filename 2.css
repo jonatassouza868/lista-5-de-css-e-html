@@ -1,0 +1,62 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+main {
+    width: 1140px;
+
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.card1,
+.card2 {
+    margin: 60px;
+}
+
+button {
+    background-color: blueviolet;
+    width: 80px;
+    height: 39px;
+    color: wheat;
+
+}
+
+.botao1,
+.botao2 {
+    text-align: center;
+}
+
+fieldset {
+    width: 300px;
+    height: 500px;
+    padding: 20px
+}
+
+header {
+    background-color: #F0F3F3;
+    font-size: 23px;
+    height: 50px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    height: 150px;
+    background-color: #F6511D;
+    color: white;
+}
+
+.cold{
+    font-size: 100px;
+    margin: 20px;
+}
+.cold2{
+    margin: 20px;
+}
