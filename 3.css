@@ -1,0 +1,65 @@
+
+
+main{
+    width: 1200px;
+}
+.textes{
+display: flex;
+justify-content: center;
+font-size: 15px;
+
+
+}
+
+
+.cards{
+    display: flex;
+justify-content: space-around;
+ 
+   
+}
+.tex{
+display: flex;
+justify-content: space-around;
+height: 50px;
+}
+.texts{
+    display: flex;
+    justify-content: space-around;
+}
+
+.texts{
+    display: flex;
+    justify-content: space-around;
+   
+}
+.tex1,
+.tex2,
+.tex3{
+   margin: 60px;
+}
+.inputs{
+    margin: 50px;
+}
+.email{
+    width: 100%;
+}
+h2{
+    color: #fc3003;
+   font-size: 30px;
+   font-weight: 100;
+}
+header{
+
+    width: 100%;
+   
+    background-color: #f0f3f3;
+    font-size: 50px;
+}
+.foter{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    color: white;
+  text-align: center;
+}
